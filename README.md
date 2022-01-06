@@ -38,8 +38,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/equalizer-landing-page-challenge-hub-Vy_b2Uy0c
+- Live Site URL: https://iakov-zelenkov-equalizer-landing-page.netlify.app/
 
 ## My process
 
